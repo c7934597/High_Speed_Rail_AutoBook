@@ -9,3 +9,5 @@ options.add_argument('--headless')
 
 # 文字辨識Tesseract OCR程式庫
 https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-setup-3.05.00dev.exe
+
+下載後需要把安裝路徑設為環境變數
