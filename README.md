@@ -9,6 +9,7 @@ options.add_argument('--headless')
 
 # 文字辨識
 一、安裝Tesseract OCR程式庫
+
 https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-setup-3.05.00dev.exe
 
 二、安裝pyocr文字辨識模組
