@@ -1,5 +1,5 @@
-# High_Speed_Rail_AutoBook
-High_Speed_Rail_AutoBook
+# Python_High_Speed_Rail_AutoBook
+Python_High_Speed_Rail_AutoBook
 
 # 高鐵訂票網址
 https://irs.thsrc.com.tw/IMINT/?locale=tw
